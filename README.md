@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabehmekonnen7.sabehmekonnen7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabeh Mekonnen!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Ethiopia</h3>
@@ -11,8 +11,10 @@
 <div align="center">
  
  🌱 I’m currently learning **React, Node.js**
+ 💻 I'm also working on **AI projects**, specializing in **Convolutional Neural Networks (CNNs)** for machine learning applications.  
+ 
 
-💬 Ask me about **Node.js, React,... or anything [here][(https://github.com/sabehmekonnen7/sabehmekonnen7)]**
+💬 Ask me about **Node.js, React,... or anything [here](https://github.com/sabehmekonnen7/sabehmekonnen7)**
 
  </div>
  
