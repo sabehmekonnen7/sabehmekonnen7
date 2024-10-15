@@ -11,6 +11,7 @@
 <div align="center">
  
  🌱 I’m currently learning **React, Node.js**
+ 
  💻 I'm also working on **AI projects**, specializing in **Convolutional Neural Networks (CNNs)** for machine learning applications.  
  
 
